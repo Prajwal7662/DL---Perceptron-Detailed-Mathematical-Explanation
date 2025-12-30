@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Perceptron-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 This repository contains a Jupyter Notebook that provides a **clear and step-by-step mathematical explanation of the Perceptron algorithm**, one of the foundational models in Machine Learning.
 
