@@ -12,7 +12,6 @@ This repository contains a Jupyter Notebook that provides a **clear and step-by-
 
 ## 📂 Repository Contents
 
-* **`Detail_Mathematical_Explanation_of_Perceptron.ipynb`**
   A comprehensive notebook covering theory, mathematics, and intuition behind the Perceptron learning algorithm.
 
 ---
